@@ -48,6 +48,30 @@ This project implements an Automatic Ramp Regulation system targeting ramp traff
   <img src="https://i.imgur.com/DGg9FNW.png" alt="Heavy Traffic State" />
 </div>
 
+## Running the Project
+
+1. Download the project files from Google Drive and extract them:
+   After downloading, extract the contents of the downloaded zip file to your desired location on your local machine.
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd automatic-ramp-regulation-system
+   ```
+
+3. Run the `main.py` file:
+
+   ```bash
+   python main.py
+   ```
+
+## File Descriptions
+
+- `main.py`: Main script to run the GUI and control the system.
+- `Congestion_Estimation.py`: Module for estimating congestion levels.
+- `Video_Processing.py`: Module for processing video input.
+- `Ramp_Regulater.py`: Module for regulating traffic on the ramp.
+- `Network_Handler.py`: Module for handling network communication with the traffic light system.
 ---
 
 **Yousef Aldahash**  
