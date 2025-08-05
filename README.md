@@ -25,7 +25,6 @@ This project implements an Automatic Ramp Regulation system targeting ramp traff
 ## Development Environment
 
 - OS: Windows 10 (21H2)
-- Mode: Local/offline operation (no cloud dependency)
 - Simulation: VISSIM for validation before real-world application
 
 ## System Architecture
