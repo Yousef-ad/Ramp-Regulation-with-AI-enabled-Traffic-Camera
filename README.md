@@ -72,7 +72,3 @@ This project implements an Automatic Ramp Regulation system targeting ramp traff
 - `Ramp_Regulater.py`: Module for regulating traffic on the ramp.
 - `Network_Handler.py`: Module for handling network communication with the traffic light system.
 ---
-
-**Yousef Aldahash**  
-Computer Engineer  
-[dahash.yousef@gmail.com](mailto:dahash.yousef@gmail.com)
